@@ -9,16 +9,11 @@ Using tf-idf features, the model is trained on the dataset.The model is trained 
 
 **Programming Language: Python3**
 
-Libraries used:Numpy
-               -Pandas
-              
-               NLTK
-                 
-               Matplotlib
-                 
-               Scikit-learn
-                 
-               XGBoost
-                 
-               WordCloud
+Libraries used:1. Numpy
+               2. Pandas
+               3. NLTK
+               4. Matplotlib
+               5. Scikit-learn
+               6. XGBoost
+               7. WordCloud
                 
