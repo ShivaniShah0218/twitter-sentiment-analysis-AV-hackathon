@@ -10,8 +10,7 @@ Using tf-idf features, the model is trained on the dataset.The model is trained 
 **Programming Language: Python3**
 
 Libraries used:Numpy
-                 
-               Pandas
+               -Pandas
               
                NLTK
                  
