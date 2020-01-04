@@ -8,11 +8,11 @@ For data-preprocessing, words having length less than 3,words other than alphanu
 Using tf-idf features, the model is trained on the dataset.The model is trained using stratified 5-fold cross validation.The classification algorithms used for training the model are random forest and cgboost.However the XGBOOST gives the better results.
 **Programming Language: Python3**
 
- **Libraries used:Numpy
-  -              Pandas
-  **-              NLTK
-  -              Matplotlib
-  **-               Scikit-learn
-  -              XGBoost
-  **-              WordCloud
+ **-Libraries used:Numpy
+  Pandas
+  NLTK
+  Matplotlib
+  Scikit-learn
+  XGBoost
+  WordCloud
                 
